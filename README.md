@@ -7,5 +7,5 @@
 - 🔭 I usually use SQL, Python and Docker languages ​​to produce my solutions.
 - 📫 How to reach me:
   Email: segundomw@gmail.com
-  Instagram: @_segundo98
-- ⚡ Fun fact: I love reggae!
+  Instagram: @damascenosegundo
+- ⚡ Fun fact: I love games!
